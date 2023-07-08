@@ -1,5 +1,5 @@
 # IIC3633 Sistemas Recomendadores
-Agosto-Diciembre 2022
+Agosto-Diciembre 2023
 
 **AVISOS**
 ¡Estamos actualizando el sitio web! Las clases se inician el martes 9 de agosto a las 11:30am en la sala B24. ¡Nos vemos!
@@ -9,20 +9,16 @@ Agosto-Diciembre 2022
 
 
 ### Equipo Docente e Información Administrativa
-**Instructor**: [Denis Parra](http://dparra.sitios.ing.uc.cl), Profesor Asociado PUC Chile, Ph.D. University of Pittsburgh
+**Instructor**: [Andrés Carvallo](https://scholar.google.cl/citations?view_op=list_works&hl=es&hl=es&user=DinpmCUAAAAJ), Profesor Adjunto PUC Chile, Ph.D. Pontificia Universidad Católica de Chile.
 
 **Ayudantes**:  
-[Alvaro Labarca](#), Estudiante de Magister, en Ciencia de la Computación PUC Chile.  
-[Jorge Pérez Facuse](#), Estudiante de Magister, en Ciencia de la Computación PUC Chile.  
-[Florencia Ferrer](#), Estudiante de Ingeniería, en Ciencia de la Computación PUC Chile.  
-[Nicolás Sumonte](#), Estudiante de Ingeniería, en IMC PUC Chile.  
- 
+TBD
 
 **Institución**: Pontificia Universidad Católica de Chile
 
 **Horario**: Martes y Jueves, Módulo 3 (11:30 a 12:50).
 
-Programa IIC 3633, 2do Semestre 2022: [pdf](https://dparra.sitios.ing.uc.cl/pdfs/IIC3633Sist%20Recomendadores_v5.pdf).
+Programa IIC 3633, 2do Semestre 2023: [pdf](https://drive.google.com/file/d/1RGL8Ami381oz7vSzY1_l1H1ALHnlejO4/view?usp=sharing).
 
 ### Descripción del Curso
 
@@ -33,9 +29,9 @@ El curso de Sistemas Recomendadores cubre las principales tareas de recomendaci�
 Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/19U5aaiUR1CE6lttf3lfzspsR37kwERRfn_zJ6m54MwE/edit#slide=id.p).
 
 
-**Software**: [Suprise](http://surpriselib.com/) y [pyRecLab](https://github.com/gasevi/pyreclab/).
+**Software**: [Suprise](http://surpriselib.com/) y [implicit](https://github.com/benfred/implicit).
 
-La componente práctica de este curso se enseña a través del uso de pyRecLab desarrollado por Gabriel Sepúlveda (ex-alumno de este curso), biblioteca de software para desarrollo de sistemas recomendadores en Python.
+La componente práctica de este curso se enseña a través del uso de surprise para algoritmos de recomendación que hacen uso de ratings y la librería implicit para feedback implicito, ambas librerías están hechas en Python.
 
 **Contenido**:
 
@@ -94,22 +90,7 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 
 | Semana  | Paper            | Link slide(s) | Link video | Conferencia | Grupo |
 |:--------|:-----------------|:-------------:|:----------:|:-------------:|:-------------:|
-|11       |Drug Discovery as a Recommendation Problem: Challenges and Complexities in Biological Decisions|[slides](https://drive.google.com/file/d/1MKlZtJU_Niz_Iovl1JjRVwBfsk3T7zD7/view?usp=sharing)|[video]|[Recsys 2021](https://dl.acm.org/doi/abs/10.1145/3460231.3474598)| 12 |
-|11       |Exploiting Negative Preference in Content-based Music Recommendation with Contrastive Learning|[slides](https://drive.google.com/file/d/1V3FTdMXCibK38Fy6b7DsPlYmodf4m4aw/view?usp=sharing)|[video](https://drive.google.com/file/d/1tGMbgECdtrFrVHbEXnhAlE3OpOnpTFSc/view?usp=sharing)|[Recsys 2022](https://dl.acm.org/doi/10.1145/3523227.3546768)| 2 |
-|11       |Tops, Bottoms, and Shoes: Building Capsule Wardrobes via Cross-Attention Tensor Network|[slides](https://drive.google.com/file/d/1VXjc4qlFjUazMAJ5C8GmFduGC0GokNRZ/view?usp=sharing)|[video]|[Recsys 2021](https://dl.acm.org/doi/proceedings/10.1145/3460231)| 14 |
-|12       |BRUCE: Bundle Recommendation Using Contextualized item Embeddings|[slides](https://drive.google.com/file/d/1D6ezymM34rJ9Y-Cod197cWjNMxx7pOUO/view?usp=sharing)|[video]|[Recsys 2022](https://dl.acm.org/doi/pdf/10.1145/3523227.3546754)| 6 |
-|12       |Post Processing Recommender Systems with Knowledge Graphs for Recency, Popularity, and Diversity of Explanations|[slides](https://drive.google.com/file/d/1qGOvSLPj6cbNqYye7NhvB2NPR6HWG4ci/view?usp=sharing)|[video]|[SIGIR 2022](https://dl.acm.org/doi/10.1145/3477495.3532041)| 7 |
-|12       |Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective |[slides](https://drive.google.com/file/d/1j1zZscC4-bzV_dScXNLNBZ7aUlKUAfsE/view?usp=share_link)|[video]|[SIGIR 2022](https://dl.acm.org/doi/10.1145/3477495.3531714)| 23 |
-|12       |Negative Interactions for Improved Collaborative Filtering: Don’t go Deeper, go Higher|[slides](https://drive.google.com/file/d/1pQsQgO9Y8nqZ2wvWqaQ3JL_qYwwkJq_q/view?usp=share_link)|[video]|[Recsys 2021](https://dl.acm.org/doi/abs/10.1145/3460231.3474273)| 16 |
-|13       |Choosing the Best of Both Worlds: Diverse and Novel Recommendations through Multi-Objective Reinforcement Learning|[slides](https://drive.google.com/file/d/1H64JOe66oSOWiHz1G2GThktOAN-XyKcx/view?usp=share_link)|[video](https://drive.google.com/file/d/1AD06C39iliUDRqAr3aXMFuWuNeQIGpL3/view?usp=share_link)|[WSDM 2022](https://dl.acm.org/doi/10.1145/3488560.3498471)| 19 |
-|13       |Reducing Cross-Topic Political Homogenization in Content-Based News Recommendation|[slides](https://drive.google.com/file/d/1vg5Sx8S5hwX5OzyWm2iX9C3ttxP6q2ax/view?usp=share_link)|[video]|[Recsys 2021](https://dl.acm.org/doi/10.1145/3523227.3546782)| 34 |
-|13       |Price DOES Matter!: Modeling Price and Interest Preferences in Session-based Recommendation|[slides](https://drive.google.com/file/d/1Isyqh4CC7Z7dB8uJWyQI7Ele-L5aR63V/view?usp=share_link)|[video]|[SIGIR 2022](https://dl.acm.org/doi/10.1145/3477495.3532043)| 18 |
-|14       |CAPTOR: A Crowd-Aware Pre-Travel Recommender System for Out-of-Town Users|[slides](https://drive.google.com/file/d/1_ySpuzbrDaEoX9Lyp_-eZDxep0McLO3F/view?usp=share_link)|[video]|[SIGIR 2022](https://dl.acm.org/doi/10.1145/3477495.3531949)| 15 |
-|14       |Thinking inside The Box: Learning Hypercube Representations for Group Recommendation|[slides](https://drive.google.com/file/d/1gqZL5-pjKKjIT2XqzoLytJBBc5zUDPN6/view?usp=share_link)|[video](https://drive.google.com/file/d/195KRiq6JprUv9AOJ_zX3Fd1cafpc8hmm/view?usp=share_link)|[SIGIR 2022](https://dl.acm.org/doi/10.1145/3477495.3532066)| 9 |
-|14       |Single-shot Embedding Dimension Search in Recommender System|[slides](https://drive.google.com/file/d/1lEoH0vN7HlUzSiybQyu7wKyYN697VE0V/view?usp=share_link)|[video](https://drive.google.com/file/d/19VZVsPlJ0GcdqqPiXP_sv7ebOVMukGeY/view?usp=share_link)|[SIGIR 2022](https://dl.acm.org/doi/10.1145/3477495.3532060)| 13 |
-|14       |The Dual Echo Chamber: Modeling Social Media Polarization for Interventional Recommending|[slides](https://drive.google.com/file/d/1vY-0nPJYPe6nczZKsHLMKxLPZaW57bSo/view?usp=share_link)|[video](https://drive.google.com/file/d/1X_ITTXqODD1729QA79YOXH0402NbXsE4/view?usp=share_link)|[Recsys 2021](https://dl.acm.org/doi/10.1145/3460231.3474261)| 1 |
-|14       |S-Walk: Accurate and Scalable Session-based Recommendation with Random Walks|[slides](https://drive.google.com/file/d/1PhgTWz6mLS3SBY3DHd5xZXBtn3kh23sW/view?usp=share_link)|[video](https://drive.google.com/file/d/1Hh5EAlEHvpH6atB2ljSRIzN2wZbAfxJA/view?usp=share_link)|[WSDM 2022](https://dl.acm.org/doi/10.1145/3488560.3498464)| 28 |
-|14       |A User-Centered Investigation of Personal Music Tours|[slides](https://drive.google.com/file/d/1acjxQRN3XQKa4nj9wDMsZ5l5aBQjHgM2/view?usp=share_link)|[video](https://drive.google.com/file/d/10p9eKHEBAexG_Od1Wb2CWeNl0bG1wzE2/view?usp=share_link)|[RecSys 2022](https://dl.acm.org/doi/10.1145/3523227.3546776)| 30 |
+<!--|11       |Drug Discovery as a Recommendation Problem: Challenges and Complexities in Biological Decisions|[slides](https://drive.google.com/file/d/1MKlZtJU_Niz_Iovl1JjRVwBfsk3T7zD7/view?usp=sharing)|[video]|[Recsys 2021](https://dl.acm.org/doi/abs/10.1145/3460231.3474598)| 12 | -->
 
 ### Parte III del curso: Proyectos finales
 
@@ -131,11 +112,11 @@ Este curso adscribe el Código de Honor establecido por la Escuela de Ingenierí
 
 ### Evaluaciones
 
-Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/19U5aaiUR1CE6lttf3lfzspsR37kwERRfn_zJ6m54MwE/edit#slide=id.p).
+Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/1zjBLBUQnjRfWbx_djy4zf9wstK4vED7O/edit?usp=sharing&ouid=103607418722343842699&rtpof=true&sd=true).
 
 **Tarea 1**
 
-Al final de las primeras 4 semanas, las(los) estudiantes implementarán mecanismos de recomendación para predecir ratings y para rankear items en un dataset que se entregará durante clases. Usarán la biblioteca pyreclab para los métodos básicos, pero si quieren optar a la nota máxima debe hacer un sistema híbrido o contextual que utilice información de contenido, como texto o imágenes. Para tener una idea de qué se trata la tarea, pueden revisar el [enunciado de la tarea en la versión 2021 del curso](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/tareas/Tarea_1_RecSys_2021_2.pdf)
+Al final de las primeras 4 semanas, las(los) estudiantes implementarán mecanismos de recomendación para predecir ratings y para rankear items en un dataset que se entregará durante clases. Usarán la biblioteca surpirse para los métodos básicos, pero si quieren optar a la nota máxima debe hacer un sistema híbrido o contextual que utilice información de contenido, como texto o imágenes. Para tener una idea de qué se trata la tarea, pueden revisar el [enunciado de la tarea en la versión 2021 del curso](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/tareas/Tarea_1_RecSys_2021_2.pdf)
 
 
 
@@ -153,9 +134,9 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 ## Planificación general (sujeta a actualización)
 
-(actualizada el 09 de agosto de 2022)
+(actualizada el 08 de julio de 2023)
 
-![Calendario 2022-2](https://user-images.githubusercontent.com/208111/183686416-4ff6d9f0-5e80-42e0-97b4-40df5d92ba0b.png)
+![Calendario 2023-2](https://user-images.githubusercontent.com/208111/183686416-4ff6d9f0-5e80-42e0-97b4-40df5d92ba0b.png)
 
 <!--[Calendario 2022-2](https://user-images.githubusercontent.com/53876461/183516596-1f981762-93f4-4892-aff2-7818ad5c1ed2.png)-->
 
