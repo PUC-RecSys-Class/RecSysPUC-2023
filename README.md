@@ -219,4 +219,4 @@ Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.co
 ### Semana 9 (entrega el 16 de Octubre):
 
 **Obligatorias**
-* Beattie, L., Taber, D., & Cramer, H. (2022, September). Challenges in Translating Research to Practice for Evaluating Fairness and Bias in Recommendation Systems. In Proceedings of the 16th ACM Conference on Recommender Systems (pp. 528-530).
+* Fu, Z., Xian, Y., Gao, R., Zhao, J., Huang, Q., Ge, Y. & de Melo, G. (2020, July). Fairness-aware explainable recommendation over knowledge graphs. In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 69-78).
