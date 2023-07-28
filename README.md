@@ -136,7 +136,7 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 (actualizada el 08 de julio de 2023)
 
-![Calendario 2023-2](https://user-images.githubusercontent.com/208111/183686416-4ff6d9f0-5e80-42e0-97b4-40df5d92ba0b.png)
+![Calendario 2023-2]calendario_recsys_2023.png
 
 <!--[Calendario 2022-2](https://user-images.githubusercontent.com/53876461/183516596-1f981762-93f4-4892-aff2-7818ad5c1ed2.png)-->
 
