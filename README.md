@@ -118,9 +118,9 @@ Al final de las primeras 4 semanas, las(los) estudiantes implementarán mecanism
 
 **Lecturas: Blog y Presentación**
 
-Fecha de revisión de comentarios de lecturas: El post de la semana x, tiene fecha de entrega el lunes a las 20:00 de la semana x+1. Ejemplo: Las lecturas de la semana 2 (clases el 15 y 17 de agosto) se entregan a más tardar el lunes 21 de agosto de 2023 a las 20:00.
+Fecha de revisión de comentarios de lecturas: El post de la semana x, tiene fecha de entrega el jueves a las 10:00 de la semana x+1. 
 
-Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com) con su correo uc. Cada semana deberá escribir 5 comentarios propios y 2 comentarios respondiendo a sus compañeros en los módulos de las lecturas marcadas como obligatorias
+Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com) con su correo uc. Cada semana deberá escribir más de 2 comentarios en los módulos de las lecturas marcadas como obligatorias. 
 
 Adicionalmente, cada alumno presentará al menos una vez durante el semestre un paper sobre un tópico, con el objetivo de abrir una discusión sobre el tema durante la clase.
 
@@ -142,7 +142,7 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 Para descargar los archivos se sugiere buscarlos en [Scholar](https://scholar.google.cl) o a través de [EZProxy](https://login.pucdechile.idm.oclc.org/).
 
-Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com) con su correo uc. Cada semana deberá escribir 5 comentarios propios y 2 comentarios respondiendo a sus compañeros en los módulos de las lecturas marcadas como obligatorias
+Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com) con su correo uc. 
 
 
 ### Semana 1 y 2 (entrega el 21 de Agosto):  
