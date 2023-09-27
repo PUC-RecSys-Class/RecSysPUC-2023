@@ -12,7 +12,8 @@ Agosto-Diciembre 2023
 **Instructor**: [Andrés Carvallo](https://scholar.google.cl/citations?view_op=list_works&hl=es&hl=es&user=DinpmCUAAAAJ), Profesor Adjunto PUC Chile, Ph.D. Pontificia Universidad Católica de Chile.
 
 **Ayudantes**:  
-TBD
+Pablo Messina, pamessina@uc.cl
+Carlos Muñoz, carlos.munoz@uc.cl
 
 **Institución**: Pontificia Universidad Católica de Chile
 
