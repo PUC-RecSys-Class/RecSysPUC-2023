@@ -1,17 +1,11 @@
 # IIC3633 Sistemas Recomendadores
 Agosto-Diciembre 2023
 
-**AVISOS**
-¡Estamos actualizando el sitio web! Las clases se inician el martes 8 de agosto a las 11:30am en la sala B24. ¡Nos vemos!
-
-**Link formulario** para evaluar posters: [formulario posters](https://forms.gle/h6YyTB6XsfdKZJfi6)
-
-
-
 ### Equipo Docente e Información Administrativa
 **Instructor**: [Andrés Carvallo](https://scholar.google.com/citations?user=0jU-UZ8AAAAJ&hl=es&oi=ao), Profesor Adjunto PUC Chile, Ph.D. Pontificia Universidad Católica de Chile.
 
 **Ayudantes**:  
+
 - Pablo Messina, pamessina@uc.cl
 - Carlos Muñoz, carlos.munoz@uc.cl
 
@@ -19,7 +13,7 @@ Agosto-Diciembre 2023
 
 **Horario**: Martes y Jueves, Módulo 3 (11:00 a 12:10).
 
-Programa IIC 3633, 2do Semestre 2023: [pdf](https://drive.google.com/file/d/1RGL8Ami381oz7vSzY1_l1H1ALHnlejO4/view?usp=sharing).
+Programa IIC 3633, 2do Semestre 2023: [pdf](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/IIC3633Sist Recomendadores.pdf).
 
 ### Descripción del Curso
 
@@ -44,45 +38,32 @@ La componente práctica de este curso se enseña a través del uso de surprise p
 | Semana  | Tema             | link slide(s) | 
 |:--------|:-----------------|:-------------:|
 | 1       | Introducción                                          | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S1-C1-intro.pdf)    | 
-| 1       | Ranking no personalizado y Filtrado colaborativo (FC) | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)    | 
-| 1       | User-based FC con clustering                          | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)    | 
-| 2       | Pendiente Uno                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)    | 
-| 2       | Item-based FC                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)    | 
-| 2       | Factorización Matricial: FunkSVD                      | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)    |
-| 3       | Implicit Feedback CF                                  | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)    |
-| 3       | Bayesian Personalized Ranking (BPR)                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)    |
-| 4       | Evaluación: metricas de error y ranking               | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)    | [video](https://drive.google.com/file/d/1Rr_-3HF4Bkal_RV1036A9PjwZX-fAcYj/view?usp=sharing)    |   [slides P Castells LARS 2019](http://ir.ii.uam.es/castells/lars2019.pdf)                |
-| 4       | Evaluación II: Cobertura, diversidad, novedad                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)    | 
-| 4       | Evaluación III: Tests estadísticos                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)     |
-| 5       | Recomendación basada en contenido 1                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)    | 
-| 5       | Recomendación basada en contenido 2                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)    | 
-| 6       | Recomendación híbrida                                 | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)    | 
-| 6       | Recomendación por ensambles                           | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)    |
-| 6       | Recomendación basada en contexto                      | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)    |
-| 6       | Máquinas de Factorización                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)    | 
-| 7       | Deep Learning I: Intro                             |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)    | 
-| 7       | Deep Learning II: Tres proyectos                             |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)    |
-| 8       | SR Centrados en el Usuario                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)    | 
-| 8       | Sistemas Justos, Explicables y Transparentes                              | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/XXXX.pdf)    | 
+| 2       | Recomendación No Personalizada y Filtrado Colaborativo                                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S1-C2.pdf)    | 
+| 3       | Slope One                                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S2-C2.pdf)    | 
+| 4       | Recomendación basada en Factores Latentes P1                                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S3-C1.pdf)    | 
+| 5       | Recomendación basada en Factores Latentes P2                                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S3-C2.pdf)    | 
+| 6       | Recomendacion basada en Feedback Implícito                                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S4-C1.pdf)    | 
+| 7       | Evaluación de Sistemas Recomendadores Parte 1                                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S4-C2.pdf)    | 
+| 8       | Evaluación de Sistemas Recomendadores Parte 2                                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S5-C1.pdf)    | 
+| 9       | Recomendación basada en Contenido Parte 1                                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S5-C2.pdf)    | 
+| 10       | Recomendación basada en Contenido Parte 2                                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S6-C1.pdf)    | 
+| 11       | Recomendación basada en Contenido Parte 3                                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S6-C2.pdf)    | 
+| 12       | Recomendación basada Contexto                                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S7-C2.pdf)    | 
+| 13       | Ensambles Parte 1                                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S8-C1.pdf)    | 
+| 14       | Ensambles Parte 2                                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S8-C2.pdf)    | 
+| 15       | Deep Learning en Recomendación                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S9-C1.pdf)    | 
+| 16       | Recomendación Multimodal                                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S9-C2.pdf)    | 
+| 17       | Sistemas Recomendadores Secuenciales y Grupales                                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S10-C1.pdf)    | 
+| 18       | Explicabilidad en Sistemas Recomendadores                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S10-C2.pdf)    | 
+| 19       | Aprendizaje Reforzado en Sistemas Recomendadores                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S11-C1.pdf)    | 
+| 20       | Trabajo Futuro en Sistemas Recomendadores                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/S11-C2.pdf)    | 
+| Extra       | Ideas de Proyectos                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/clases/Proyectos-2023-IIC3633-small.pdf)    | 
 
 
-<!--
-| 8       | [Ideas de Proyecto](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/tree/master/proyecto) |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/proyecto/Denis-IdeasProyectosFinales-2020.pdf)        |   [video1](https://drive.google.com/file/d/1o8TFNtax9cYiIrVFdnxGxJ3P3fItIFwA/view?usp=sharing) [video2](https://drive.google.com/file/d/1NjC6iw9LRDmaKGh-rSAHVm_iolcsvMy1/view?usp=sharing)      |                   |
-| 9       | Evaluación centrada en usuarios                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s9_c1_usercentric.pdf)    | [video1](https://drive.google.com/file/d/1N6KBXkGN6Gh409mxkkD8KFGLs8Bvntz7/view?usp=sharing)  [video2](https://drive.google.com/file/d/1NlALFJzBcLv1SZGFSiOgjFoINlKzkdN4/view?usp=sharing)  |                   |
-| 9       | Sistemas Justos, Explicables y Transparentes                                      |   [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s9_c2_FATv2.pdf)       |  [video](https://drive.google.com/file/d/1kgJHc3DoKem0VW1gKvm2RaweGJJF3uPv/view?usp=sharing)        |                   |
-| 10       | Aprendizaje Activo (Active Learning)                                    |   [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s10_c1_activelearning.pdf)       |  [video](https://drive.google.com/file/d/1tb1qhBWUgO5jHrpQIYhWhvmy3z93Jimc/view?usp=sharing)        |                   |
-| 10       | Bandits: Invitada [PhD(c) Andrea Barraza](https://apbarraza.com/)                                      |   [slides](https://gitlab.insight-centre.org/andbar/bears/raw/c4f04b377f6ad30a1ab0e5f1c97d05eaacec364e/tutorials/RECSYS2020/slides/%5BRecSys2020%5D%20Introduction%20to%20Bandits%20in%20Recommender%20Systems.pdf)       |  [video1](https://drive.google.com/file/d/1tTnkIjVOUu8Y_PkNYKZVBuWWscwn2Zni/view?usp=sharing)  [video2](https://drive.google.com/file/d/1Q8dYPUQ-EPmg_JEYK86Jw7smtr0ZPrEc/view?usp=sharing)        |   Tutorial eng. RecSys 2020 [video](https://player.vimeo.com/video/460128124) [slides](https://gitlab.insight-centre.org/andbar/bears/raw/c4f04b377f6ad30a1ab0e5f1c97d05eaacec364e/tutorials/RECSYS2020/slides/%5BRecSys2020%5D%20Introduction%20to%20Bandits%20in%20Recommender%20Systems.pdf)                 |
-| 11       | Aprendizaje Profundo para RecSys (Intro y FC)                                      |   [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s11_c1_deep_learning.pdf)       |  [video](https://drive.google.com/file/d/1-T_vxETMbzqk2FNJzUPGaPJtIpfe-R9g/view?usp=sharing)        |                   |
-| 11       | Aprendizaje Profundo para RecSys (Secuencias)                                    |   [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s11_c2_secu_deep_learning.pdf)       |  [video](https://drive.google.com/file/d/1krx9jda3TC8xyIn0n5FGuR-xgp-zezev/view?usp=sharing)        |                   |
-| 12       | Aprendizaje Profundo para RecSys (Imágenes, Transformer, Grafos)                                    |   [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s12_c1_deep_learning_s.pdf)       |  [video1](https://drive.google.com/file/d/11aUkSvabuHZMevDd4yP0dBTrc3_2eNtV/view?usp=sharing)  [video2](https://drive.google.com/file/d/1LJ6jI3gHPqS45Olv-Iu29W5DunO8ZbF6/view?usp=sharing)      |                   |
-| 12       | 10 problemas en Sistemas de Recomendación                                     |   [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2022/blob/master/clases/s12_c2_10bigproblems-recsys-small.pdf)       |  [video](https://drive.google.com/file/d/1DtyzGOfMZY8UE223SMM2ROczH_qHhkNc/view?usp=sharing)        | | -->
 
 ### Parte II del curso: seminario
 
 A partir de noviembre el curso toma modalidad seminario, los alumnos hacen presentaciones de los siguientes papers (La lista de papers aun no será subida, la actualizaremos y avisaremos cuando corresponda).
-
-<!-- Tick      : &#10003 -->
-<!-- Bold tick : &#10004 -->
 
 
 | Semana  | Paper            | Link slide(s) | Link video | Conferencia | Grupo |
@@ -91,17 +72,27 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 
 ### Parte III del curso: Proyectos finales
 
-L@s estudiantes trabajan en grupo sobre proyectos finales de curso, produciendo un poster, paper y repositorio con código para cada uno (A medida que los estudiantes vayan haciendo las entregas actualizaremos la lista de prsentaciones y posters aqui).
+L@s estudiantes trabajan en grupo sobre proyectos finales de curso, produciendo un poster, paper y repositorio con código para cada uno.
 
-### Planificación y Evaluaciones
+| Título Paper | Integrantes | Grupo | Link |
+|--------------|-------------|-------|------|
+| Comparative analysis of text embedding-based recommendations | Andy Casañas, Joaquín Dunner, José Valladares, Martín Peñaloza | 1 | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/proyectos/gruposrecsys1_7923_9310788_SR_Final_project.pdf) |
+| Prueba de diferentes métodos en el Spotify Million Playlist Dataset Challenge | Nicolás Guzmán, Diego Jiménez, Valentina Núñez, Alonso Zamorano | 2 | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/proyectos/gruposrecsys2_8365_9312922_Paper_IIC3633.pdf) |
+| Sistemas de Recomendación de Libros Personalizados | Gabriel Aguirre, Pablo Bahamondes, Ignacio Medel | 3 | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/proyectos/gruposrecsys3_16499_9312075_PaperProyecto.pdf)|
+| CLIP para recomendación multimodal | Luis Arias, Benjamín Lillo, Darwin Sanhueza | 4 | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/proyectos/gruposrecsys4_1306_9312748_InformeFinal) |
+| A recommendation system approach for World of Warcraft Classic Hardcore in-game information distribution | Enzo Morata, Fabrizio Garcia, Jose Carball | 5 | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/proyectos/gruposrecsys5_7834_9312031_SysRecProject-Group5) |
+| LLMs as recommender systems: An alternative for tackling the cold-start problem | Felipe Aravena, Martín Ocqueteau | 6 | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/proyectos/gruposrecsys6_20036_9312702_EntregaProyecto.pdf) |
+| Recomendacion de juegos de mesa | Camila Belen Denecken, Ignacio Andres Diaz Pozo, Sofia Irina Escobedo, Rafaela Kara Carmo | 7 | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/proyectos/gruposrecsys7_5833_9312840_g7_paper.pdf) |
+| Recomendacion de Textos Constitucionales: Un Enfoque Integrado de Similaridad Jurídica en el Contexto de Procesos Constitucionales en Chile | Lucas Valenzuela, Jose Domingo Silva, Rodrigo Esteban Fuentes | 8 | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/proyectos/gruposrecsys8_27428_9308769_RecConst.pdf) |
+| Implementación de modelo multimodal para recomendar negocios de comida | Gabriel Astudillo, Miguel Angel Fernandez, Javier Ramos, Ariel Reyes Pardo | 9 | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/proyectos/gruposrecsys9_41385_9308112_InformefinalRecSys.pdf) |
+| Sistema de recomendacion multimodal de juegos de mesa | Sara Godoy, Alvaro Postigo | 10 | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/proyectos/gruposrecsys10_15750_9308975_Informe_3_RecSys.pdf) |
+| Data augmentation for recommender systems using LLMs | Rodrigo Pozo, Oscar Loch, Luis Miranda, Cristobal Vasquez | 11 | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/proyectos/gruposrecsys11_8440_9313066_Informe_Final_Proyecto.pdf) |
+| LLMs como evaluacion de sistemas recomendadores en serendipia | Tomas Emanuel Fouyet, Tomas Vergara Browne, Sebastian Alberto Perez | 12 | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/proyectos/gruposrecsys12_8522_9311077_recsys-paper.pdf) |
+| Content based recommendation using sentiment analysis of vacation accomodation | Rodrigo Ogalde, Ignacio Quera | 13 | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/proyectos/gruposrecsys13_73856_9313120_Paper_RecSys.pdf) |
+| Hotel Recommendations Based on Pre-Trained Language Models: Evaluation of Effectiveness and Comparison with Traditional Methods | Begoña Pendas, Jairo Navarro, Fabian Ignacio Riveros | 14 | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/proyectos/gruposrecsys14_21774_9308876_RecSys_Paper.pdf) |
+| A Multi-Modal Approach to Movie Recommendation: Text and Image Synergy | Maureen Cooper, Lucia De Pineda, Anna Ramon | 15 | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/proyectos/gruporecsys15_27250_9308425_Paper_SisRec_2.pdf) |
+| Using embeddings for solving cold-start problem | Vicente Ipinza, José Vergara, Marta Mariz, Victor Hernández | 17 | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/proyectos/gruporecsys17_8784_9312386_recsyspaper.pdf) |
 
-**MES 1** En las primeras semanas nos enfocaremos en métodos básicos para hacer recomendación usando y prediciendo ratings (filtrado colaborativo User-based & item-based, slope-one). Luego veremos métodos de factorización matricial para ratings y para feedback implícito. En la 3ra semana veremos formas adicionales de evaluar más alla de la métricas de error de predicción de rating (MAE, MSE, RMSE) e incorporaremos métricas para evaluar listas de ítems (precision, recall, MAP, P@n, nDCG). Veremos métodos basados en contenido y sistemas híbridos.
-
-**MES 2** Métodos basados en contexto, máquinas de factorización y modelos fundamentales de deep learning para recomendación. Recapitulación de las tareas de recomendacion (predecir rating, predecir una lista de items, recomendar una secuencia, recomendación TopN) y de su evaluacion considerando diversidad, novedad, coverage, y otras métricas.
-
-**MES 3** User-centric RecSys, FAT (Fairness, Accountability and Transparency), Aplicaciones de Deep learning para problemas más específicos: recomendación de ropa, multimedia, etc. Modelos profundos generativos para recomendación. Revisaremos problemas de recomendación aún no resueltos en el área.
-
-**MES 4** Principalmente presentaciones de alumnos.
 
 ### Código de Honor
 
@@ -109,21 +100,16 @@ Este curso adscribe el Código de Honor establecido por la Escuela de Ingenierí
 
 ### Evaluaciones
 
-Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/1zjBLBUQnjRfWbx_djy4zf9wstK4vED7O/edit?usp=sharing&ouid=103607418722343842699&rtpof=true&sd=true).
-
 **Tarea 1**
 
-Al final de las primeras 4 semanas, las(los) estudiantes implementarán mecanismos de recomendación para predecir ratings y para rankear items en un dataset que se entregará durante clases. Usarán la biblioteca surpirse para los métodos básicos, pero si quieren optar a la nota máxima debe hacer un sistema híbrido o contextual que utilice información de contenido, como texto o imágenes. Para tener una idea de qué se trata la tarea, pueden revisar el [enunciado de la tarea en la versión 2021 del curso](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/tareas/Tarea_1_RecSys_2021_2.pdf)
+Al final de las primeras 4 semanas, las(los) estudiantes implementarán mecanismos de recomendación para predecir ratings y para rankear items en un dataset que se entregará durante clases. Usarán la biblioteca surpirse para los métodos básicos, pero si quieren optar a la nota máxima debe hacer un sistema híbrido o contextual que utilice información de contenido, como texto o imágenes. 
 
+[Enunciado de la Tarea](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/tarea/Tarea_1_RecSys_2023_2.pdf)
 
 
 **Lecturas: Blog y Presentación**
 
-Fecha de revisión de comentarios de lecturas: El post de la semana x, tiene fecha de entrega el jueves a las 10:00 de la semana x+1. 
-
-Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com) con su correo uc. Cada semana deberá escribir más de 2 comentarios en los módulos de las lecturas marcadas como obligatorias. 
-
-Adicionalmente, cada alumno presentará al menos una vez durante el semestre un paper sobre un tópico, con el objetivo de abrir una discusión sobre el tema durante la clase.
+Fecha de revisión de comentarios de lecturas: El post de la semana x, tiene fecha de entrega el jueves a las 10:00 de la semana x+1. Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com) con su correo uc. 
 
 **Proyecto Final** 
 
