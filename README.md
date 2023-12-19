@@ -60,10 +60,24 @@ La componente práctica de este curso se enseña a través del uso de surprise p
 
 A partir de noviembre el curso toma modalidad seminario, los alumnos hacen presentaciones de los siguientes papers (La lista de papers aun no será subida, la actualizaremos y avisaremos cuando corresponda).
 
+| Orden | Titulo | Integrantes | Link |
+|-------|--------|-------------|------|
+| 1 | Text Is All You Need: Learning Language Representations for Sequential Recommendation | Andy Casañas, Joaquín Dunner, José Valladares, Martín Peñaloza |  |
+| 2 | Alleviating the Long-Tail Problem in Conversational Recommender Systems | Felipe Ignacio Aravena Carril, Maureen Cooper Ríos, Diana Patricia Gil Silvestre, Ignacio Alejandro Quera Leddy |  |
+| 3 | Meta Graph Learning for Long-Tail Recommendation | Luis Arias, Benjamín Lillo, Darwin Sanhueza |  |
+| 4 | Knowledge Graph Contrastive Learning for Recommendation | Sara Godoy Franco, Martín Felipe Ocqueteau Canales, Rodrigo José Martín Ogalde Lisboa, Álvaro Ignacio Postigo Villarroel |  |
+| 5 | Denoising Self-Attentive Sequential Recommendation | Anna Ramon Hinojosa, Lucía De Pineda Alabart |  |
+| 6 | Effective and Efficient Training for Sequential Recommendation using Recency Sampling | Gabriel Astudillo Laroze, Miguel Fernadez Pizarro, Javier Ramos Di Consoli, Ariel Reyes Pardo |  |
+| 7 | InTune: Reinforcement Learning-based Data Pipeline Optimization for Deep Recommendation Models | Vicente Ipinza, Marta Mariz, José Vergara, Víctor Hernández Lagos |  |
+| 8 | Identifying New Podcasts with High General Appeal Using a Pure Exploration Infinitely-Armed Bandit Strategy | Camila Denecken, Sofia Escobedo, Rafaela Kara, Ignacio Diaz |  |
+| 9 | A Lightweight Method for Modeling Confidence in Recommendations with Learned Beta Distributions | Oscar Loch, Luis Miranda, Rodrigo Pozo, Cristobal Vasquez |  |
+| 10 | Can ChatGPT Make Fair Recommendation? A Fairness Evaluation Benchmark for Recommendation with Large Language Model | Lucas Valenzuela, Rodrigo Fuentes, José Domingo Silva |  |
+| 11 | Zero-Shot Next-Item Recommendation using Large Pretrained Language Models | Begoña Pendas, Fabian Riveros, Jairo Navarro |  |
+| 12 | Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System | Tomás Fouyet, Sebastián Pérez, Tomàs Vergara |  |
+| 13 | Countering Popularity Bias by Regularizing Score Differences | Enzo Morata, Fabrizio Garcia, Jose Caraball |  |
+| 14 | Don’t recommend the obvious: estimate probability ratios | Gabriel Aguirre, Pablo Bahamodes, Ignacio Medel |  |
+| 15 | Widespread Flaws in Offline Evaluation of Recommender Systems | Diego Jimenez, Nicolas Guzman, Alonso Zamorano, Valentina Nuñez |  |
 
-| Semana  | Paper            | Link slide(s) | Link video | Conferencia | Grupo |
-|:--------|:-----------------|:-------------:|:----------:|:-------------:|:-------------:|
-<!--|11       |Drug Discovery as a Recommendation Problem: Challenges and Complexities in Biological Decisions|[slides](https://drive.google.com/file/d/1MKlZtJU_Niz_Iovl1JjRVwBfsk3T7zD7/view?usp=sharing)|[video]|[Recsys 2021](https://dl.acm.org/doi/abs/10.1145/3460231.3474598)| 12 | -->
 
 ### Parte III del curso: Proyectos finales
 
@@ -109,13 +123,6 @@ Fecha de revisión de comentarios de lecturas: El post de la semana x, tiene fec
 **Proyecto Final** 
 
 Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, la cual desarrollarán durante octubre y noviembre. Enviarán un informe de avance a fines de octubre, para hacer una presentación de su proyecto al final del curso en una sesión de posters.
-
-## Planificación general (sujeta a actualización)
-
-![Calendario 2023-2](calendario_recsys_2023.png)
-
-<!--[Calendario 2022-2](https://user-images.githubusercontent.com/53876461/183516596-1f981762-93f4-4892-aff2-7818ad5c1ed2.png)-->
-
 
 
 ## Lecturas por Semana
