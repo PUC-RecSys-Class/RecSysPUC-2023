@@ -13,16 +13,11 @@ Agosto-Diciembre 2023
 
 **Horario**: Martes y Jueves, Módulo 3 (11:00 a 12:10).
 
-Programa IIC 3633, 2do Semestre 2023: [pdf](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/IIC3633Sist Recomendadores.pdf).
+Programa IIC 3633, 2do Semestre 2023: [pdf](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/IIC3633SistRecomendadores.pdf).
 
 ### Descripción del Curso
 
 El curso de Sistemas Recomendadores cubre las principales tareas de recomendación, algoritmos, fuentes de datos y evaluación de estos sistemas. Al final de este curso serás capaz de decidir qué técnicas y fuentes de datos usar para implementar y evaluar sistemas recomendadores.
-
-**Evaluaciones**:
-
-Detalles de las evaluaciones en [esta presentacion](https://docs.google.com/presentation/d/1zjBLBUQnjRfWbx_djy4zf9wstK4vED7O/edit?usp=sharing&ouid=103607418722343842699&rtpof=true&sd=true).
-
 
 **Software**: [Suprise](http://surpriselib.com/) y [implicit](https://github.com/benfred/implicit).
 
