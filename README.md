@@ -23,12 +23,8 @@ El curso de Sistemas Recomendadores cubre las principales tareas de recomendaci�
 
 La componente práctica de este curso se enseña a través del uso de surprise para algoritmos de recomendación que hacen uso de ratings y la librería implicit para feedback implicito, ambas librerías están hechas en Python.
 
-**Contenido**:
 
 ## Contenidos por Semana
-
-<!-- Tick      : &#10003 -->
-<!-- Bold tick : &#10004 -->
 
 | Semana  | Tema             | link slide(s) | 
 |:--------|:-----------------|:-------------:|
@@ -56,30 +52,30 @@ La componente práctica de este curso se enseña a través del uso de surprise p
 
 
 
-### Parte II del curso: seminario
+## Parte II del curso: seminario
 
 A partir de noviembre el curso toma modalidad seminario, los alumnos hacen presentaciones de los siguientes papers (La lista de papers aun no será subida, la actualizaremos y avisaremos cuando corresponda).
 
 | Orden | Titulo | Integrantes | Link |
 |-------|--------|-------------|------|
-| 1 | Text Is All You Need: Learning Language Representations for Sequential Recommendation | Andy Casañas, Joaquín Dunner, José Valladares, Martín Peñaloza |  |
-| 2 | Alleviating the Long-Tail Problem in Conversational Recommender Systems | Felipe Ignacio Aravena Carril, Maureen Cooper Ríos, Diana Patricia Gil Silvestre, Ignacio Alejandro Quera Leddy |  |
-| 3 | Meta Graph Learning for Long-Tail Recommendation | Luis Arias, Benjamín Lillo, Darwin Sanhueza |  |
-| 4 | Knowledge Graph Contrastive Learning for Recommendation | Sara Godoy Franco, Martín Felipe Ocqueteau Canales, Rodrigo José Martín Ogalde Lisboa, Álvaro Ignacio Postigo Villarroel |  |
-| 5 | Denoising Self-Attentive Sequential Recommendation | Anna Ramon Hinojosa, Lucía De Pineda Alabart |  |
-| 6 | Effective and Efficient Training for Sequential Recommendation using Recency Sampling | Gabriel Astudillo Laroze, Miguel Fernadez Pizarro, Javier Ramos Di Consoli, Ariel Reyes Pardo |  |
-| 7 | InTune: Reinforcement Learning-based Data Pipeline Optimization for Deep Recommendation Models | Vicente Ipinza, Marta Mariz, José Vergara, Víctor Hernández Lagos |  |
-| 8 | Identifying New Podcasts with High General Appeal Using a Pure Exploration Infinitely-Armed Bandit Strategy | Camila Denecken, Sofia Escobedo, Rafaela Kara, Ignacio Diaz |  |
-| 9 | A Lightweight Method for Modeling Confidence in Recommendations with Learned Beta Distributions | Oscar Loch, Luis Miranda, Rodrigo Pozo, Cristobal Vasquez |  |
-| 10 | Can ChatGPT Make Fair Recommendation? A Fairness Evaluation Benchmark for Recommendation with Large Language Model | Lucas Valenzuela, Rodrigo Fuentes, José Domingo Silva |  |
-| 11 | Zero-Shot Next-Item Recommendation using Large Pretrained Language Models | Begoña Pendas, Fabian Riveros, Jairo Navarro |  |
-| 12 | Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System | Tomás Fouyet, Sebastián Pérez, Tomàs Vergara |  |
-| 13 | Countering Popularity Bias by Regularizing Score Differences | Enzo Morata, Fabrizio Garcia, Jose Caraball |  |
-| 14 | Don’t recommend the obvious: estimate probability ratios | Gabriel Aguirre, Pablo Bahamodes, Ignacio Medel |  |
-| 15 | Widespread Flaws in Offline Evaluation of Recommender Systems | Diego Jimenez, Nicolas Guzman, Alonso Zamorano, Valentina Nuñez |  |
+| 1 | Text Is All You Need: Learning Language Representations for Sequential Recommendation | Andy Casañas, Joaquín Dunner, José Valladares, Martín Peñaloza | [link]() |
+| 2 | Alleviating the Long-Tail Problem in Conversational Recommender Systems | Felipe Ignacio Aravena Carril, Maureen Cooper Ríos, Diana Patricia Gil Silvestre, Ignacio Alejandro Quera Leddy | [link]() |
+| 3 | Meta Graph Learning for Long-Tail Recommendation | Luis Arias, Benjamín Lillo, Darwin Sanhueza | [link](gruposrecsys4_1306_9051331_PresentaciónpaperRecSys_grupo_10.pdf) |
+| 4 | Knowledge Graph Contrastive Learning for Recommendation | Sara Godoy Franco, Martín Felipe Ocqueteau Canales, Rodrigo José Martín Ogalde Lisboa, Álvaro Ignacio Postigo Villarroel | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/presentaciones/gruposrecsys13_73856_9059887_RecSys.pdf) |
+| 5 | Denoising Self-Attentive Sequential Recommendation | Anna Ramon Hinojosa, Lucía De Pineda Alabart | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/presentaciones/gruporecsys15_27250_9059766_PresentaciónPropuestaProyectoBriefClienteModernoProfesionalNegroyBlanco.pdf) |
+| 6 | Effective and Efficient Training for Sequential Recommendation using Recency Sampling | Gabriel Astudillo Laroze, Miguel Fernadez Pizarro, Javier Ramos Di Consoli, Ariel Reyes Pardo | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/presentaciones/gruposrecsys9_41385_9059309_PresentaciónEffectiveandEfficientTrainingforSequentialRecommendationusingRecencySampling.pdf) |
+| 7 | InTune: Reinforcement Learning-based Data Pipeline Optimization for Deep Recommendation Models | Vicente Ipinza, Marta Mariz, José Vergara, Víctor Hernández Lagos | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/presentaciones/gruporecsys17_8784_9088800_InTune.pdf) |
+| 8 | Identifying New Podcasts with High General Appeal Using a Pure Exploration Infinitely-Armed Bandit Strategy | Camila Denecken, Sofia Escobedo, Rafaela Kara, Ignacio Diaz | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/presentaciones/gruposrecsys7_5833_9089582_NewPodcasts.pdf) |
+| 9 | A Lightweight Method for Modeling Confidence in Recommendations with Learned Beta Distributions | Oscar Loch, Luis Miranda, Rodrigo Pozo, Cristobal Vasquez | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/presentaciones/gruposrecsys11_8440_9089593_Presentación_paper_recsys.pdf) |
+| 10 | Can ChatGPT Make Fair Recommendation? A Fairness Evaluation Benchmark for Recommendation with Large Language Model | Lucas Valenzuela, Rodrigo Fuentes, José Domingo Silva | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/presentaciones/gruposrecsys8_27428_9099865_Presentación_FuentesValenzuelaSilva.pdf) |
+| 11 | Zero-Shot Next-Item Recommendation using Large Pretrained Language Models | Begoña Pendas, Fabian Riveros, Jairo Navarro | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/presentaciones/gruposrecsys14_21774_9100856_PresentaciónRecSys.pdf) |
+| 12 | Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System | Tomás Fouyet, Sebastián Pérez, Tomàs Vergara | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/presentaciones/gruposrecsys12_8522_9103009_RecSys-1.pdf) |
+| 13 | Countering Popularity Bias by Regularizing Score Differences | Enzo Morata, Fabrizio Garcia, Jose Caraball | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/presentaciones/gruposrecsys5_7834_9123585_dissertation.pdf) |
+| 14 | Don’t recommend the obvious: estimate probability ratios | Gabriel Aguirre, Pablo Bahamodes, Ignacio Medel | [link]() |
+| 15 | Widespread Flaws in Offline Evaluation of Recommender Systems | Diego Jimenez, Nicolas Guzman, Alonso Zamorano, Valentina Nuñez | [link](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/presentaciones/gruposrecsys2_8365_9126356_WidespreadFlawsinOfflineEvaluationofRecommenderSystems.pdf) |
 
 
-### Parte III del curso: Proyectos finales
+## Parte III del curso: Proyectos finales
 
 L@s estudiantes trabajan en grupo sobre proyectos finales de curso, produciendo un poster, paper y repositorio con código para cada uno.
 
