@@ -54,7 +54,7 @@ La componente práctica de este curso se enseña a través del uso de surprise p
 
 ## Parte II del curso: seminario
 
-A partir de noviembre el curso toma modalidad seminario, los alumnos hacen presentaciones de los siguientes papers (La lista de papers aun no será subida, la actualizaremos y avisaremos cuando corresponda).
+A partir de noviembre el curso toma modalidad seminario, l@s alumn@s presentaron los siguientes papers: 
 
 | Orden | Titulo | Integrantes | Link |
 |-------|--------|-------------|------|
@@ -109,7 +109,7 @@ Este curso adscribe el Código de Honor establecido por la Escuela de Ingenierí
 
 Al final de las primeras 4 semanas, las(los) estudiantes implementarán mecanismos de recomendación para predecir ratings y para rankear items en un dataset que se entregará durante clases. Usarán la biblioteca surpirse para los métodos básicos, pero si quieren optar a la nota máxima debe hacer un sistema híbrido o contextual que utilice información de contenido, como texto o imágenes. 
 
-[Enunciado de la Tarea](https://github.com/PUC-RecSys-Class/RecSysPUC-2021/blob/master/tarea/Tarea_1_RecSys_2023_2.pdf)
+[Enunciado de la Tarea](https://github.com/PUC-RecSys-Class/RecSysPUC-2023/blob/master/tarea/Tarea_1_RecSys_2023_2.pdf)
 
 
 **Lecturas: Blog y Presentación**
